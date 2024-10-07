@@ -1,1 +1,1 @@
-# Corizo_project
+# DataScience_project
